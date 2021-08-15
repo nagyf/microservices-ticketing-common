@@ -1,6 +1,6 @@
 {
     "name": "@microservices-course/ticketing-common",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "Common package for the backend services in the ticketing application",
     "main": "./build/index.js",
     "types": "./build/index.d.ts",
