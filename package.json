@@ -1,0 +1,13 @@
+{
+    "name": "@microservices-course/ticketing-common",
+    "version": "0.0.1",
+    "description": "Common package for the backend services in the ticketing application",
+    "main": "index.ts",
+    "scripts": {},
+    "keywords": [
+        "microservices",
+        "common"
+    ],
+    "author": "ferennag",
+    "license": "MIT"
+}
